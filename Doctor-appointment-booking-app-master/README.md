@@ -25,29 +25,29 @@ cd medical-appointment-booking-system
 
 Navigate to the root directory:
 
-cd medical-appointment-booking-system
+`cd medical-appointment-booking-system`
 
 Install backend dependencies:
 
-npm install
+`npm install`
 
 Start the backend server:
 
-npm start
+`npm start`
 
 ### Frontend Setup:
 
 Navigate to the client folder:
 
-cd client
+`cd client`
 
 Install frontend dependencies:
 
-npm install
+`npm install`
 
 Start the frontend development server:
 
-npm start
+`npm start`
 
 Environment Variables
 The .env file in the root directory contains the necessary credentials to access the MongoDB database. 
@@ -74,4 +74,4 @@ Notify doctors of new appointment requests.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
-For any issues or questions, please contact me at akshayprathap1268@gmail.com
+For any issues or questions, please contact me at `akshayprathap1268@gmail.com`
