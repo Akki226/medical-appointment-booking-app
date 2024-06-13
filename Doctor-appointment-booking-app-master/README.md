@@ -17,7 +17,7 @@ This is a simple medical appointment booking system that allows users to book, v
 
 ### Clone the Repository
 
-```bash
+
 git clone https://github.com/Akki226/medical-appointment-booking-app/edit/main/Doctor-appointment-booking-app-master.git
 cd medical-appointment-booking-system
 
