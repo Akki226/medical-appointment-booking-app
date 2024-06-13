@@ -70,8 +70,8 @@ Doctors can delete appointments.
 Send email notifications to patients to confirm appointments.
 Notify doctors of new appointment requests.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 For any issues or questions, please contact me at akshayprathap1268@gmail.com
