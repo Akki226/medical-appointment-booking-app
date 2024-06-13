@@ -18,5 +18,22 @@ This is a simple medical appointment booking system that allows users to book, v
 ### Clone the Repository
 
 ```bash
+git clone https://github.com/Akki226/medical-appointment-booking-app/edit/main/Doctor-appointment-booking-app-master.git
+cd medical-appointment-booking-system
 
-cd Doctor-appointment-booking-system
+### Backend Setup:
+
+Navigate to the root directory:
+
+```bash
+cd medical-appointment-booking-system
+
+Install backend dependencies:
+
+```bash
+npm install
+
+Start the backend server:
+
+```bash
+npm start
